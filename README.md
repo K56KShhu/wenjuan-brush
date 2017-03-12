@@ -5,6 +5,7 @@ finish the quesitionaire automatically， only support choice question now
 
 ## Requirements
 - PhantomJS
+- selenium (3.0.2)
 
 ## Test
 I make a [quesitionaire](https://www.wenjuan.net/s/ryIbuuX/) and the results are below  
